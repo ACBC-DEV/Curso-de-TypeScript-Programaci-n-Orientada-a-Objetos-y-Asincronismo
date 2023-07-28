@@ -1,0 +1,28 @@
+{
+  "name": "curso-de-typescript-programaci-n-orientada-a-objetos-y-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAMILOBLANDON/Curso-de-TypeScript-Programaci-n-Orientada-a-Objetos-y-Asincronismo.git"
+  },
+  "author": "ACBC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CAMILOBLANDON/Curso-de-TypeScript-Programaci-n-Orientada-a-Objetos-y-Asincronismo/issues"
+  },
+  "homepage": "https://github.com/CAMILOBLANDON/Curso-de-TypeScript-Programaci-n-Orientada-a-Objetos-y-Asincronismo#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "class-validator": "^0.14.0"
+  }
+}
